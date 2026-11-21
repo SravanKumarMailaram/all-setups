@@ -10,4 +10,4 @@ sed -i '21d' apache-tomcat-9.0.124/webapps/manager/META-INF/context.xml
 sed -i '22d'  apache-tomcat-9.0.124/webapps/manager/META-INF/context.xml
 sh apache-tomcat-9.0.124/bin/startup.sh
 
-https://downloads.apache.org/
+This link is to check the latest version of the tomcat and maven version : https://downloads.apache.org/
