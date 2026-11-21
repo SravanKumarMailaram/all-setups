@@ -4,7 +4,7 @@ yum install jenkins -y
 systemctl start jenkins
 systemctl status jenkins
 
-
+##To Get Build Executor Online in Jenkins Status :
 sudo mkdir -p /var/tmp_disk
 sudo chmod 1777 /var/tmp_disk
 sudo mount --bind /var/tmp_disk /tmp
